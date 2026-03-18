@@ -40,7 +40,7 @@ export default function Landing() {
         <div className="flex items-center gap-2">
           <Pill className="h-7 w-7 text-primary" />
           <span className="text-xl font-bold text-foreground">
-            Lab<span className="text-secondary">GO</span>
+            Labfarm<span className="text-secondary">GO</span>
           </span>
         </div>
         <Button onClick={() => navigate("/login")} variant="outline" size="sm">
@@ -74,7 +74,7 @@ export default function Landing() {
               asChild
             >
               <a
-                href="https://wa.me/5511999999999?text=Olá! Gostaria de saber mais sobre o LabGO."
+                href="https://wa.me/5511999999999?text=Olá! Gostaria de saber mais sobre o LabfarmGO."
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -89,7 +89,7 @@ export default function Landing() {
       <section className="py-20 px-6">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl font-bold text-center mb-4">
-            Por que escolher o <span className="text-gradient">LabGO</span>?
+            Por que escolher o <span className="text-gradient">LabfarmGO</span>?
           </h2>
           <p className="text-center text-muted-foreground mb-12 max-w-xl mx-auto">
             Tudo que você precisa para gerenciar o estoque da sua farmácia.
@@ -129,7 +129,7 @@ export default function Landing() {
 
       {/* Footer */}
       <footer className="py-8 px-6 text-center text-muted-foreground text-sm">
-        © {new Date().getFullYear()} LabGO. Todos os direitos reservados.
+        © {new Date().getFullYear()} LabfarmGO. Todos os direitos reservados.
       </footer>
     </div>
   );

@@ -91,7 +91,7 @@ export default function Login() {
             </div>
           </div>
           <CardTitle className="text-2xl">
-            Lab<span className="text-secondary">GO</span>
+            Labfarm<span className="text-secondary">GO</span>
           </CardTitle>
           <CardDescription>{titles[mode]}</CardDescription>
         </CardHeader>

@@ -1,4 +1,4 @@
-# LabGO - Sistema de Controle de Estoque para Farmácias
+# LabfarmGO - Sistema de Controle de Estoque para Farmácias
 
 ## Project info
 
@@ -6,7 +6,7 @@
 
 ## Descrição
 
-LabGO é um sistema completo de controle de estoque desenvolvido especificamente para farmácias. Gerencie medicamentos, produtos farmacêuticos, movimentações e múltiplas filiais com uma interface intuitiva e segura.
+LabfarmGO é um sistema completo de controle de estoque desenvolvido especificamente para farmácias. Gerencie medicamentos, produtos farmacêuticos, movimentações e múltiplas filiais com uma interface intuitiva e segura.
 
 ## Principais Funcionalidades
 
@@ -89,4 +89,4 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/c
 
 ## Suporte
 
-Para suporte e dúvidas sobre o LabGO, entre em contato através do WhatsApp: https://wa.me/5511999999999
+Para suporte e dúvidas sobre o LabfarmGO, entre em contato através do WhatsApp: https://wa.me/5511999999999

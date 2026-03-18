@@ -38,7 +38,7 @@ export function AppSidebar() {
         <div className="flex items-center gap-2">
           <Pill className="h-6 w-6 text-sidebar-primary" />
           <span className="text-lg font-bold text-sidebar-foreground">
-            Lab<span className="text-sidebar-primary">GO</span>
+            Labfarm<span className="text-sidebar-primary">GO</span>
           </span>
         </div>
       </SidebarHeader>
